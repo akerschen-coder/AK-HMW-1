@@ -14,5 +14,5 @@ A user face for the comapny Horiseon that goes into detail about their work, pas
 In the header, main section, aside section and footer section of CSS, was condensed and simplified. 
 In the HTML, semantatic HTML was implemented, links were fixed and accessible features were put in.   
  ## Screenshot of Website 
- ![screenshot of the website I edited](https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-fsf-pt-06-2021-u-c/raw/master/01-HTML-Git-CSS/02-Homework/Assets/01-html-css-git-homework-demo.png)
+ ![screenshot of the website I edited](./assets/images/website-horiseon-screenshot.png)
 
