@@ -27,7 +27,7 @@ header h1 {
 }
 
 /* Nav area */
-header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -35,12 +35,12 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul li {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* main page stuffs*/
+/* main page background*/
 a {
     color: #ffffff;
     text-decoration: none;
